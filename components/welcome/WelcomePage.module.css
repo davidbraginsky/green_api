@@ -1,0 +1,7 @@
+.container {
+  max-width: 1000px;
+  width: 100%;
+  background-color: var(--message-background);
+  margin: 0 auto;
+  height: 100vh;
+}
